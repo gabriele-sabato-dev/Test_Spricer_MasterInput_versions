@@ -1,6 +1,6 @@
 
 def print_something():
-    print('I am a beautiful branch')
+    print('I am a pretty branch')
     print('Mamma Maria')
 
 if __name__ == '__main__':
